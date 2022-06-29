@@ -1,0 +1,7 @@
+Dans cette experience, nous allons vous présenter des photographies de visages en train de faire des sourires plus ou moins amicaux.
+
+Par "sourire amical", nous désignons un sourire qui exprime le fait que la personne soit ouverte à l'interaction, qu'elle vous accueille, vous encourage à venir lui parler, et vous considère comme faisant partie du même "groupe" qu'elle. Par "non-amical", nous désignons une expression par laquelle la personne exprime qu'elle n'est pas ouverte à l'interaction avec vous, qu'elle ne vous accueille pas particulièrement, ne vous encourage pas à venir lui parler, et ne vous considère pas comme faisant partie du même groupe qu'elle.  
+
+Dans chaque paire de visages, nous vous demandons de noter à quel point le visage de droite vous semble sourire de façon amicale, par rapport au visage de gauche. Vous pourrez répondre sur une échelle allant de 1 (le visage de droite sourit de façon beaucoup moins amicale que le visage de gauche) à 9 (le visage de droite sourit de façon beaucoup plus amicale que le visage de gauche). Selectionnez la réponse du milieu (5) si vous trouvez que le visage de droite n'est ni plus amical, ni moins amical que le visage de gauche. Vous pourrez répondre en utilisant soit les touches numériques du clavier (1...9), soit les flèches "gauche" et "droite" pour déplacer le curseur. Après avoir selectionné votre réponse, appuyez sur "entrée" ou "espace" pour la valider, et passez à l'essai suivant. 
+
+(Appuyez sur une touche pour continuer)

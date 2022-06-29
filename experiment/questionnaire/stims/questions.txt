@@ -1,0 +1,72 @@
+1,TAS20,"Souvent, je ne vois pas très clair dans mes sentiments"
+2,TAS20,"J'ai souvent du mal à trouver les mots qui correspondent bien à mes sentiments"
+3,TAS20,"J'éprouve parfois des sensations physiques que même les médecins ne comprennent pas"
+4,TAS20,"La plupart du temps, j'arrive facilement à décrire mes sentiments"
+5,TAS20,"Je préfère généralement analyser les problèmes plutôt que de me contenter de les décrire" 
+6,TAS20,"Souvent, quand je suis bouleversé(e), je ne sais pas si je suis triste, effrayé(e), ou en colère"
+7,TAS20,"Je suis souvent intrigué(e) par certaines sensations que je ressens au niveau de mon corps"
+8,TAS20,"La plupart du temps, je préfère laisser les choses se produire, plutôt que de comprendre pourquoi elles sont arrivées"
+9,TAS20,"J'ai souvent des sentiments que je ne suis pas capable d'identifier"
+10,TAS20,"Je pense qu'être conscient de ses émotions est essentiel"
+11,TAS20,"Je trouve généralement difficile de décrire mes sentiments sur les gens"
+12,TAS20,"On me demande souvent de décrire davantage ce que je ressens"
+13,TAS20,"Je ne sais pas ce qui se passe à l'intérieur de moi"
+14,TAS20,"Bien souvent, je ne sais pas pourquoi je suis en colère"
+15,TAS20,"Je préfère parler aux gens de leurs activités quotidiennes plutôt que de leurs sentiments"
+16,TAS20,"Je préfère regarder des émissions de variétés et de divertissement plutôt que des films psychologiques"
+17,TAS20,"Il m'est difficile de révéler mes sentiments intimes même à des amis très proches"
+18,TAS20,"Je peux me sentir proche de quelqu'un même pendant les moments de silence"
+19,TAS20,"Je trouve utile d'analyser mes sentiments pour résoudre mes problèmes personnels"
+20,TAS20,"Rechercher le sens caché d'un film ou d'une pièce de théâtre, ça perturbe le plaisir qu'ils procurent"
+21,BESA,"Généralement, les émotions de mes amis(ies) ne m'affectent pas beaucoup"
+22,BESA,"Après avoir été avec un(e) ami(e) qui est triste, je me sens généralement triste"
+23,BESA,"Je peux généralement comprendre le bonheur d'un(e) ami(e) lorsque quelque chose marche bien pour lui/elle"
+24,BESA,"Je peux être effrayé(e) par un bon film d'horreur"
+25,BESA,"Je m'imprègne facilement des émotions des autres"
+26,BESA,"J'ai du mal à savoir quand mes amis(ies) ont peur"
+27,BESA,"Je ne suis pas souvent triste quand je vois une personne pleurer"
+28,BESA,"Les sentiments des autres ne me tracassent pas du tout"
+29,BESA,"Quand quelqu'un a la sensation d'être au plus bas, je peux généralement comprendre ce qu'il/elle ressent"
+30,BESA,"Généralement, je sais me rendre compte quand mes amis(ies) sont effrayés(ées)"
+31,BESA,"Souvent, je me sens triste quand je regarde des choses ou des films tristes"
+32,BESA,"Souvent, j'arrive à comprendre comment les gens se sentent avant même qu'ils ne me l'aient dit"
+33,BESA,"Voir une personne se mettre en colère n'a généralement aucun effet sur moi"
+34,BESA,"Habituellement, j'arrive à savoir quand les gens sont joyeux"
+35,BESA,"J'ai tendance à me sentir apeuré(ée) quand je suis avec des amis(ies) qui sont effrayés(ées)"
+36,BESA,"Généralement, je me rends vite compte quand un(e) ami(e) est furieux(se)"
+37,BESA,"Je suis souvent happé(e) par les sentiments de mes amis(ies)"
+38,BESA,"Je ressens rarement quelque chose face à la tristesse de mes amis(ies)"
+39,BESA,"Je ne suis généralement pas attentif(ve) aux sentiments de mes amis(ies)"
+40,BESA,"J'ai du mal à comprendre quand mes amis(ies) sont heureux(ses)"
+41,IPIP,"Je suis réservé devant des gens que je ne connais pas",FG
+42,IPIP,"Je parle généralement doucement",HI
+43,IPIP,"Je peux tolèrer beaucoup de la part des autres",JK
+44,IPIP,"Je m'intéresse aux autres",LM
+45,IPIP,"Je suis à l'aise quand il y a du monde",NO
+46,IPIP,"J'aime être au centre de l'attention",PA
+47,IPIP,"Je ne suis pas tendre avec les autres",BC
+48,IPIP,"Je trouve que chacun doit savoir se défendre tout seul",DE
+49,IPIP,"Je ne donne jamais de détails sur ma vie privée",FG
+50,IPIP,"Je laisse toujours les autres finir ce qu'ils sont en train de dire",HI
+51,IPIP,"Je prends les choses telles qu'elles sont",JK
+52,IPIP,"Je rassure souvent les autres",LM
+53,IPIP,"C'est souvent moi qui initie les conversations",NO
+54,IPIP,"Je parle tout le temps",PA
+55,IPIP,"Je contredis tout le temps mes interlocuteurs",BC
+56,IPIP,"Les histoires sentimentales, très peu pour moi",DE
+57,IPIP,"Je ne suis pas très causant",FG
+58,IPIP,"Je ne suis pas du genre à me vanter",HI
+59,IPIP,"Je fais passer les autres avant moi",JK
+60,IPIP,"Je fais attention au bien-être des gens que je cotoie",LM
+61,IPIP,"Quand il y a une fête, je parle toujours à plein de gens différents",NO
+62,IPIP,"J'ai tendance à parler fort",PA
+63,IPIP,"Je rétorque facilement aux gens de façon agressive",BC
+64,IPIP,"Je ne réfléchis pas trop avant d'agir ou de parler",DE
+65,IPIP,"Je n'ai généralement pas grand chose à dire",FG
+66,IPIP,"J'ai horreur d'être le centre de l'attention",HI
+67,IPIP,"Je n'exagère jamais ce que je raconte",JK
+68,IPIP,"Je m'entends bien avec les autres",LM
+69,IPIP,"J'aime les fêtes où il y a plein de monde",NO
+70,IPIP,"J'ai besoin d'attention",PA
+71,IPIP,"J'ai la langue bien pendue",BC
+72,IPIP,"Les problèmes de autres, ça ne m'intéresse pas",DE

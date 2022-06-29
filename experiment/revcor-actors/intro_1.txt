@@ -1,0 +1,7 @@
+Dans cette experience, nous allons vous présenter des photographies de visages, présentant des sourires plus ou moins amicaux.
+
+Par "sourire amical", nous désignons un sourire qui exprime le fait que la personne soit ouverte à l'interaction, qu'elle vous accueille, vous encourage à venir lui parler, et vous considère comme faisant partie du même "groupe" qu'elle. Par "non-amical", nous désignons une expression par laquelle la personne exprime qu'elle n'est pas ouverte à l'interaction avec vous, qu'elle ne vous accueille pas particulièrement, ne vous encourage pas à venir lui parler, et ne vous considère pas comme faisant partie du même groupe qu'elle.  
+
+Dans chaque paire de visages, nous vous demanderons de sélectionner dans quelle image la personne vous semble sourire de la façon la plus amicale. Vous répondrez avec les touches "g" et "h" du clavier, la touche de gauche ("g") étant utilisée si vous trouvez que l'image de gauche est la plus amicale des deux, et la touche de droite ("h") si vous trouvez que l'image de droite est la plus amicale des deux. Nous vous recommandons de garder vos doigts (par ex. l'index et le majeur de la main droite si vous êtes droitier) sur les touches "g" et "h" tout le long de l'expérience. 
+
+(Appuyez sur une touche pour continuer)

@@ -1,0 +1,9 @@
+
+Entrainement: 
+
+Dans un premier temps, nous allons vous présenter quelques exemples de paires de visages, pour vous familiariser avec l'expérience et avec la façon de donner vos réponses. 
+
+Dans chaque paire de visages, sélectionnez dans quelle image la personne vous semble sourire de la façon la plus amicale, avec la touche "g" si vous trouvez que c'est l'image de gauche et la touche "h" si vous pensez que c'est l'image de droite. 
+
+
+Appuyez sur une touche pour commencer l'entrainement. 

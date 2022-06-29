@@ -1,0 +1,5 @@
+Dans cette experience, vous allez répondre à quelques questions concernant votre personalité et vos émotions. 
+
+Pour chaque question, nous vous présenterons une affirmation vous concernant (ex. "J'aime aller au cinéma") et vous répondrez sur une échelle allant de 1 ("pas du tout d'accord", si vous pensez que cette affirmation ne s'applique pas du tout à vous, cad que vous détestez aller au cinéma) à 5 ("tout à fait d'accord", si vous pensez que cette affirmation s'applique complètement à vous, cad qu'effectivement vous adorez aller au cinéma). Vous pourrez répondre en utilisant soit les touches numériques du clavier (1,2,3,4,5), soit les flèches "gauche" et "droite" pour déplacer le curseur. Après avoir selectionné votre réponse, appuyez sur "entrée" ou "espace" pour la valider, et passez à la question suivante. 
+
+(Appuyez sur une touche pour continuer)

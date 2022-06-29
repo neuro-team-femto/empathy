@@ -1,0 +1,12 @@
+
+Entrainement: 
+
+Dans un premier temps, nous allons vous présenter quelques exemples de paires de visages, pour vous familiariser avec l'expérience et avec la façon de donner vos réponses. 
+
+Dans chaque paire de visages, notez à quel point le visage de droite vous semble sourire de façon amicale, par rapport au visage de gauche. Répondez vers la gauche de l'échelle si le visage de droite vous semble sourire de façon moins amicale que le visage de gauche. Répondez vers la droite de l'échelle si le visage de droite vous semble sourire de façon plus amicale que le visage de gauche. Sélectionnez la réponse du milieu (5) si vous trouvez que le visage de droite n'est ni plus amical, ni moins amical que le visage de gauche. 
+
+Pour répondre, utilisez soit les touches numériques du clavier (1...9), soit les flèches "gauche" et "droite" pour déplacer le curseur. Après avoir selectionné votre réponse, appuyez sur "entrée" ou "espace" pour la valider, et passez à l'essai suivant. 
+
+Souvenez-vous: vous jugez toujours l'image de droite, par rapport à l'image de gauche.  
+
+Appuyez sur une touche pour commencer l'entrainement. 

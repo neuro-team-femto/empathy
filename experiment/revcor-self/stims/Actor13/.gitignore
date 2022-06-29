@@ -1,0 +1,6 @@
+# ignore image files in stim folder (needed for experiment) 
+*.jpg
+# preserve neutral image for each participant (needed for analysis) 
+!neutral.jpg
+# preserve this folder
+!.gitignore
