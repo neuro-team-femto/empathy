@@ -1,0 +1,5 @@
+# ignore pics (exported for paper)
+pics
+
+# ignore notebook checkpoints
+.ipynb_checkpoints/
